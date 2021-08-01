@@ -61,3 +61,15 @@ C:\Users\Star River\Desktop\LMS\HOPU_LMS\UI\obj\Debug\UI.csproj.CoreCompileInput
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\UI\obj\Debug\UI.csproj.CopyComplete
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\UI\obj\Debug\UI.dll
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\UI\obj\Debug\UI.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\bin\UI.dll.config
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\bin\UI.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\bin\UI.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\bin\BLL.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\bin\Models.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\bin\BLL.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\bin\Models.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\obj\Debug\UI.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\UI\obj\Debug\UI.pdb

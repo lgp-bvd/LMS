@@ -7,3 +7,12 @@ C:\Users\Star River\Desktop\LMS\HOPU_LMS\DAL\obj\Debug\DAL.csproj.CoreCompileInp
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\DAL\obj\Debug\DAL.dll
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\DAL\obj\Debug\DAL.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\bin\Debug\DAL.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\bin\Debug\DAL.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\bin\Debug\Models.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\bin\Debug\Models.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\obj\Debug\DAL.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\DAL\obj\Debug\DAL.pdb

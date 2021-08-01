@@ -4,3 +4,9 @@ C:\Users\Star River\Desktop\LMS\HOPU_LMS\Models\obj\Debug\Models.csproj.Assembly
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\Models\obj\Debug\Models.dll
 C:\Users\Star River\Desktop\LMS\HOPU_LMS\Models\obj\Debug\Models.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\Models\bin\Debug\Models.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\Models\bin\Debug\Models.pdb
+C:\Users\Star River\Desktop\LMS项目\LMS\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\Star River\Desktop\LMS项目\LMS\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Star River\Desktop\LMS项目\LMS\Models\obj\Debug\Models.dll
+C:\Users\Star River\Desktop\LMS项目\LMS\Models\obj\Debug\Models.pdb
